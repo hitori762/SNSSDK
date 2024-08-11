@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginSocialNetworkLibrary</string>
+    <string name="fb_avatar_url">http://graph.facebook.com/%s/picture?type=large</string>
+</resources>
